@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o5WLVPLkLt95zYo0vTrN87AlA/sEjiY8hry2Mqu4q/d5R046h8KxA2GDlJoVBbAxLdhPwbbEcc9PAzxbN7x9fA==",
+  "success": true,
+  "projectFilePath": "D:\\DDD\\OnlineShop20230528\\OnlineShop20230527\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M.Rafiee\\.nuget\\packages\\ardalis.smartenum\\2.1.0\\ardalis.smartenum.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
